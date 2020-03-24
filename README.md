@@ -4,7 +4,7 @@
 
 > 首先讲讲  
 >> 因为这两天才接触[clash for windows](https://github.com/Fndroid/clash_for_windows_pkg/releases "最新版地址")  
->> UI和其他的不太一样，配置文件里的变量名完全变了个样，所以呢，就找到了[灵感来源 1号](https://github.com/Hackl0us/SS-Rule-Snippet/blob/master/LAZY_RULES/clash.yaml "直接启迪")  
+>> UI和其他的不太一样，配置文件里的变量名不完全地变了个样，所以呢，就找到了[灵感来源 1号](https://github.com/Hackl0us/SS-Rule-Snippet/blob/master/LAZY_RULES/clash.yaml "直接启迪")  
 >> 解释地算详细了  
 
 
