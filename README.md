@@ -1,3 +1,5 @@
+# 别调用，会报错，原因不明，别提交issue，我放弃了！！！
+
 # clash 配置文件  
 ## clash for windows  
 ### 简单的配置  
