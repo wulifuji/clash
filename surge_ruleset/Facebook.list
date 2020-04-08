@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,oculuscdn.com,force-remote-dns
 DOMAIN-SUFFIX,rocksdb.org,force-remote-dns
 DOMAIN-SUFFIX,whatsapp.com,force-remote-dns
 DOMAIN-SUFFIX,whatsapp.net,force-remote-dns
-DOMAIN-KEYWORD,Facebook,force-remote-dns
+DOMAIN-KEYWORD,Facebook
 IP-CIDR,3.123.36.126/32,no-resolve
 IP-CIDR,35.157.215.84/32,no-resolve
 IP-CIDR,35.157.217.255/32,no-resolve
