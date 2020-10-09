@@ -6,14 +6,11 @@ log-level: info
 external-controller: 127.0.0.1:9090
 dns:
   enable: true
-  ipv6: false
+  ipv6: true
   nameserver:
-    - 61.132.163.68
-    - 202.102.213.68
+    - 114.114.114.114
     - 211.138.180.2
-    - 211.138.180.3
-    - 8.8.8.8
-    - 114.114.114.119
+    - 61.132.163.68
   fallback:
     - tls://13800000000.rubyfish.cn:853
     - tls://1.0.0.1:853
@@ -44,7 +41,7 @@ cfw-bypass:
   - 172.31.*
   - 192.168.*
   - <local>
-cfw-latency-timeout: 5000
+cfw-latency-timeout: 1500
 Proxy: ~
 Proxy Group: ~
 Rule: ~
